@@ -11,7 +11,7 @@ A rose pine theme for [Omarchy](https://omarchy.org/).
 
 ## Installation
 
-Use the builtin installation script:
+Use the builtin installation script (available after version 1.4.0):
 
 ```bash
 omarchy-theme-install https://github.com/guilhermetk/omarchy-rose-pine
