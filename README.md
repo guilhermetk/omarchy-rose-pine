@@ -2,12 +2,12 @@
 
 A rose pine theme for [Omarchy](https://omarchy.org/).
 
-![Omarchy Rose Pine Wallpaper](./assets/wallpaper.png)
-![Omarchy Rose Pine Tools](./assets/tools.png)
+![Omarchy Rose Pine Wallpaper](./assets/wallpaper.webp)
+![Omarchy Rose Pine Tools](./assets/tools.webp)
 
 ## Color palette
 
-![Color palette](./assets/palette.png)
+![Color palette](./assets/palette.webp)
 
 ## Installation
 
